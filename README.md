@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Rupali Suryawanshi</h1>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Rupali%20Suryawanshi&fontSize=40&fontColor=ffffff" />
+</p>
 ## 👩‍💻 About Me
 
 - 📊 **Data Analyst & AI Enthusiast**
